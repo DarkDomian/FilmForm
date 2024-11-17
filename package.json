@@ -1,9 +1,9 @@
 {
-  "name": "thinkop",
+  "name": "filmform",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://darkdomian.github.io/thinkop",
+  "homepage": "https://darkdomian.github.io/FilmForm/",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist",
